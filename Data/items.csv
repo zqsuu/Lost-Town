@@ -1,0 +1,19 @@
+---,name,count,icon,buy,sell,store,class,description
+money,money,1000,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/coin.coin',0,0,0,money,
+carrot_seed,carrot_seed,4,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/carrot_seed.carrot_seed',50,25,10,seed,"Crop Seeds, ideal for sowing in the fields. These seeds mature in 24 hours, ready to harvest and bring life to your farm."
+pumpkin_seed,pumpkin_seed,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/pumpkin_seed.pumpkin_seed',50,25,10,seed,
+watermelon_seed,watermelon_seed,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/watermelon_seed.watermelon_seed',50,25,10,seed,
+sunflower_seed,sunflower_seed,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/sunflower_seed.sunflower_seed',50,25,10,seed,
+onion_seed,onion_seed,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/onion_seed.onion_seed',50,25,10,seed,
+garlic_seed,garlic_seed,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/garlic_seed.garlic_seed',50,25,10,seed,
+potato_seed,potato_seed,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/potato_seed.potato_seed',50,25,10,seed,
+corn_seed,corn_seed,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/corn_seed.corn_seed',50,25,10,seed,
+carrot,carrot,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/carrot.carrot',100,200,5,crop,mature crops. Can be used to cook food or sell.
+pumpkin,pumpkin,10,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/pumpkin.pumpkin',100,200,5,crop,mature crops. Can be used to cook food or sell.
+watermelon,watermelon,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/watermelon.watermelon',100,200,5,crop,mature crops. Can be used to cook food or sell.
+sunflower,sunflower,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/sunflower.sunflower',100,200,5,crop,mature crops. Can be used to cook food or sell.
+onion,onion,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/onion.onion',100,200,5,crop,mature crops. Can be used to cook food or sell.
+garlic,garlic,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/garlic.garlic',100,200,5,crop,mature crops. Can be used to cook food or sell.
+potato,potato,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/potato.potato',100,200,5,crop,mature crops. Can be used to cook food or sell.
+corn,corn,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/corn.corn',100,200,5,crop,mature crops. Can be used to cook food or sell.
+meat,meat,0,/Script/Engine.Texture2D'/Game/Assets/Data/Bag/icon/meat.meat',100,200,5,meat,Meat obtained from hunting wild animals. Can be used to cook food or sell.
